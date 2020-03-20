@@ -1,6 +1,6 @@
 {
   "name": "react-use-query-hook",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Hook to access query-params like react-routers useParams.",
   "homepage": "https://github.com/ybroeker/react-use-query-hook",
   "author": "ybroeker",
