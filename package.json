@@ -1,0 +1,42 @@
+{
+  "name": "react-use-query-hook",
+  "version": "0.1.0",
+  "description": "Hook to access query-params like react-routers useParams.",
+  "homepage": "https://github.com/ybroeker/react-use-query-hook",
+  "author": "ybroeker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ybroeker/react-use-query-hook.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "query-params",
+    "react-router-dom",
+    "hooks"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ybroeker/react-use-query-hook/issues"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "react": "16.8.0"
+  },
+  "dependencies": {
+    "@types/react-router-dom": "5.1.3",
+    "react-router-dom": "5.1.2"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  }
+}
